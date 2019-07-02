@@ -1,0 +1,4 @@
+﻿Compiling debug version of 'Stepper Motor micro' for 'ATmega328P (Old Bootloader) (Arduino Nano)'
+Program size: 5,570 bytes (used 18% of a 30,720 byte maximum) (3.65 secs)
+Minimum Memory Usage: 311 bytes (15% of a 2048 byte maximum)
+ 

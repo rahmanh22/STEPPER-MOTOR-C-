@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STEPPER MOTOR", "STEPPER MOTOR\STEPPER MOTOR.csproj", "{042BF31D-8FF7-42BF-8017-A6C64783448D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{042BF31D-8FF7-42BF-8017-A6C64783448D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{042BF31D-8FF7-42BF-8017-A6C64783448D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{042BF31D-8FF7-42BF-8017-A6C64783448D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{042BF31D-8FF7-42BF-8017-A6C64783448D}.Debug|x86.Build.0 = Debug|Any CPU
+		{042BF31D-8FF7-42BF-8017-A6C64783448D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{042BF31D-8FF7-42BF-8017-A6C64783448D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{042BF31D-8FF7-42BF-8017-A6C64783448D}.Release|x86.ActiveCfg = Release|Any CPU
+		{042BF31D-8FF7-42BF-8017-A6C64783448D}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C341DB42-65C5-41C1-93A9-3C69CB04653A}
+	EndGlobalSection
+EndGlobal
